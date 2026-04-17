@@ -1,4 +1,6 @@
 # Audio Speech To Sign Language Converter
+This project is based on original work by Jigar Gajjar et al.
+Enhanced and modified by Rajiv Ranjan Singh.
 
 A Web Application which takes in live audio speech recording as input, converts it into text and displays the relevant Indian Sign Language animations.
 
